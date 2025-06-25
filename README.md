@@ -2,26 +2,26 @@
 A fully functional virtual cybersecurity lab built for hands-on learning, penetration testing, vulnerability analysis, and secure network simulation in a controlled environment using ethical hacking tools and isolated virtual machines.
 Virtual Cybersecurity Lab Setup
 
-Report Summary  
+## Project Summary  
 This report documents the step-by-step development of a virtual cybersecurity lab designed for penetration testing, vulnerability assessment, and simulated cyber defense. The lab includes attacker and target machines, a web application testing environment, and essential tools for ethical hacking. The project demonstrates virtualization, network segmentation, vulnerability analysis, and secure lab setup.
 
-Project Overview  
+## Project Overview  
 The virtual lab simulates a secure, isolated environment where cybersecurity techniques can be practiced without harming real-world systems. It features a structured layout of virtual machines connected within a private network to simulate attacks and defenses.
 
-Objectives  
+## Objectives  
 - Simulate a cybersecurity environment for training  
 - Practice ethical hacking techniques safely  
 - Conduct vulnerability assessments  
 - Gain experience using cybersecurity tools
 
-Tools and Environment  
+## Tools and Environment  
 - Virtualization platform  
 - Penetration testing operating system  
 - Vulnerable target machine  
 - Web application testing platform  
 - Network analysis tools
 
-Step-by-Step Setup Guide  
+### Step-by-Step Setup Guide  
 
 1. Preparation  
 - Verified system virtualization support  
@@ -49,16 +49,16 @@ Step-by-Step Setup Guide
 - Captured network traffic for analysis  
 - Documented all procedures and results
 
-Network Diagram  
+### Network Diagram  
 Insert a labeled diagram showing all virtual machines and their IPs
 
-Screenshots  
+### Screenshots  
 Insert screenshot of virtual machines running  
 Insert screenshot of successful ping between systems  
 Insert screenshot of scan results  
 Insert screenshot of traffic captured
 
-Project Folder Structure  
+### Project Folder Structure  
 virtual-cyber-lab  
 ├── Screenshots  
 ├── Configs  
@@ -67,11 +67,11 @@ virtual-cyber-lab
 ├── tools-reference.md  
 ├── network-diagram.png
 
-Outcomes  
+## Outcomes  
 - Created and configured a secure virtual lab  
 - Demonstrated tool usage and testing methodology  
 - Identified vulnerabilities using ethical techniques  
 - Gained foundational cybersecurity experience
 
-References  
+## References  
 Include manuals, documentation, and websites consulted during setup
