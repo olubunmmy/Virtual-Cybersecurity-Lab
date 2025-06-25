@@ -28,22 +28,22 @@ The virtual lab simulates a secure, isolated environment where cybersecurity tec
 - Enabled virtualization in BIOS or UEFI  
 - Installed virtualization software
 
-2. Creating Virtual Machines  
+#### 2. Creating Virtual Machines  
 - Created VM for penetration testing  
 - Created VM for target system  
 - Configured system resources for each machine
 
-3. Network Configuration  
+#### 3. Network Configuration  
 - Created internal or host-only network  
 - Assigned static IPs to each VM  
 - Verified connectivity using ping
 
-4. Installing Tools  
+#### 4. Installing Tools  
 - Installed port scanning and vulnerability tools  
 - Installed traffic analyzers and interception proxies  
 - Set up web-based vulnerable applications
 
-5. Testing and Simulation  
+#### 5. Testing and Simulation  
 - Performed reconnaissance on target  
 - Conducted controlled web attacks  
 - Captured network traffic for analysis  
