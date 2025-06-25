@@ -23,7 +23,7 @@ The virtual lab simulates a secure, isolated environment where cybersecurity tec
 
 ### Step-by-Step Setup Guide  
 
-1. Preparation  
+#### 1. Preparation  
 - Verified system virtualization support  
 - Enabled virtualization in BIOS or UEFI  
 - Installed virtualization software
