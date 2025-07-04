@@ -100,6 +100,13 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
+#### Testing and Simulation  
+- Performed reconnaissance on target  
+- Conducted forensic analysis  
+- Captured network traffic for analysis  
+- Documented all procedures and results
+
+
 ### 6.Using Wireshark for Monitoring
 
 - **Wireshark** was installed on Ubuntu to watch and record digital activities.
@@ -131,14 +138,6 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - All steps were documented for future use and sharing in a portfolio.
 
 ---
-
-
-
-#### Testing and Simulation  
-- Performed reconnaissance on target  
-- Conducted forensic analysis  
-- Captured network traffic for analysis  
-- Documented all procedures and results
 
 
 
