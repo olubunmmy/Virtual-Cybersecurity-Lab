@@ -16,6 +16,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Perform forensic analysis with **Autopsy** on Ubuntu.
 - Practice safe, repeatable security scenarios without impacting the host system.
 
+---
 
 ## Tools and Environment  
 | Tool           | Purpose                               |
