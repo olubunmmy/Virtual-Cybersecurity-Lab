@@ -1,30 +1,37 @@
-# Project Title :Virtual-Cybersecurity-Lab
+# Project Title :Virtual-Cybersecurity-Lab Setup
 
-
-## Project Summary  
-This Project report documents the step-by-step development of a virtual cybersecurity lab designed for penetration testing, vulnerability assessment, and simulated cyber defense. The lab includes attacker and target machines, a web application testing environment, and essential tools for ethical hacking. The project demonstrates virtualization, network segmentation, vulnerability analysis, and secure lab setup.
 
 ## Project Overview  
-The virtual lab simulates a secure, isolated environment where cybersecurity techniques can be practiced without harming real-world systems. It features a structured layout of virtual machines connected within a private network to simulate attacks and defenses.
+This project documents the step-by-step methodology used to create a fully functional virtual cybersecurity lab using **Oracle VirtualBox**. The lab environment includes tools such as **Wireshark** for packet analysis, **Ubuntu** as the forensic host machine, and **Autopsy** for digital forensics investigations.
+
+This setup is designed for learning, practicing, and demonstrating cybersecurity skills in a controlled and ethical environment.
+
+---
+
 
 ## Objectives  
 - Simulate a cybersecurity environment for training  
-- Practice ethical hacking techniques safely  
-- Conduct vulnerability assessments  
-- Gain experience using cybersecurity tools
+- Create an isolated virtual lab for cybersecurity testing and analysis.
+- Use **Wireshark** to capture and analyze network traffic.
+- Perform forensic analysis with **Autopsy** on Ubuntu.
+- Practice safe, repeatable security scenarios without impacting the host system.
+
 
 ## Tools and Environment  
-- Virtualization platform  
-- Penetration testing operating system  
-- Vulnerable target machine  
-- Web application testing platform  
-- Network analysis tools
+| Tool           | Purpose                               |
+|----------------|----------------------------------------|
+| Oracle VirtualBox | Hypervisor to run virtual machines |
+| Ubuntu (ISO)   | Base OS for forensic and analysis tools |
+| Kali Linux     | Offensive security testing VM          |
+| Autopsy        | Digital forensics GUI tool             |
+| Wireshark      | Network packet analyzer                |
+| DVWA / Metasploitable2 | Vulnerable targets for testing |
 
 ### Step-by-Step Setup Guide  
 
 #### 1. Preparation  
 - Verified system virtualization support  
-- Enabled virtualization in BIOS or UEFI  
+- Enabled virtualization in UEFI  
 - Installed virtualization software
 
 #### 2. Creating Virtual Machines  
@@ -68,8 +75,7 @@ virtual-cyber-lab
 
 ## Outcomes  
 - Created and configured a secure virtual lab  
-- Demonstrated tool usage and testing methodology  
-- Identified vulnerabilities using ethical techniques  
+- Demonstrated tool usage and testing methodology    
 - Gained foundational cybersecurity experience
 
 ## References  
