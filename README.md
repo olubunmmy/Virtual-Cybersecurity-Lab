@@ -37,7 +37,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
   - Verified system virtualization support 
   -  Enabled virtualization in UEFI  
 
-  **Download Tools**:
+ - **Download Tools**:
   - [Oracle VirtualBox](https://www.virtualbox.org/)
   - [Ubuntu ISO](https://ubuntu.com/download/desktop)
   - [Kali Linux ISO](https://www.kali.org/get-kali/)
@@ -49,9 +49,9 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 #### 2. Install Oracle VirtualBox and Extension Pack
  
-- Install VirtualBox on host system.
-- Install the Extension Pack for USB and RDP support.
-- Launch VirtualBox and confirm it's running.
+- Installed VirtualBox on host system.
+- Installed the Extension Pack for USB and RDP support.
+- Launched VirtualBox and confirm it's running.
 
 
 #### 3. Network Configuration  
