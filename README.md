@@ -47,14 +47,14 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-#### 2. Install Oracle VirtualBox and Extension Pack
+#### 2. Installed Oracle VirtualBox and Extension Pack
  
 - Installed VirtualBox on host system.
 - Installed the Extension Pack for USB and RDP support.
 - Launched VirtualBox and confirm it's running.
 
   
-#### 3. Create Virtual Machines
+#### 3. Created Virtual Machines
 
 #####  Ubuntu (Forensics Host)
 
@@ -66,6 +66,25 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - **Installation**:
   - Booted with Ubuntu ISO.
   - Completed OS setup and installed updates.
+    
+    
+#####  Kali Linux (Attacker Machine)
+
+- RAM: 4096MB
+- Disk: 30GB
+- Network: Host-Only Adapter
+- Tools: nmap 
+
+#####  Metasploitable2 or DVWA (Target Machine)
+
+- RAM: 2048MB
+- Disk: Pre-configured image
+- Network: Same Host-Only Adapter to allow local traffic
+
+---
+
+
+
 
 #### 4. Network Configuration  
 - Created internal or host-only network  
@@ -73,18 +92,55 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Verified connectivity using ping
 
 #### 5. Installing Tools  
-- Installed port scanning and vulnerability tools  
-- Installed traffic analyzers and interception proxies  
-- Set up web-based vulnerable applications
+ Preparing the Virtual Machines
+
+- Ubuntu was used as the main analysis and investigation computer.
+- Kali Linux served as the computer to explore and simulate risky behavior.
+- Metasploitable2/DVWA acted as the target computer for safe testing scenarios.
+
+---
+
+### 4️⃣ Using Wireshark for Monitoring
+
+- **Wireshark** was installed on Ubuntu to watch and record digital activities.
+- Activities between the virtual machines were safely observed and reviewed.
+- This helped in understanding how computers communicate and what normal or suspicious activity looks like.
+
+---
+
+### 5️⃣ Using Autopsy for Investigation
+
+- **Autopsy**, a tool for digital forensics, was used to open and examine data from one of the virtual computers.
+- Practiced looking at deleted files, browsing activity, and system behavior.
+- This helped build skills for analyzing incidents and tracing activity on a computer.
+
+---
+
+### 6️⃣ Practicing Scenarios
+
+- Simulated a basic scenario where one virtual computer interacts with another in a suspicious way.
+- Observed the activity with **Wireshark** and documented what was seen.
+- Used **Autopsy** to investigate and confirm what had happened by looking into stored data.
+
+---
+
+### 7️⃣ Documentation and Reporting
+
+- Notes, screenshots, and sample reports were created throughout the setup.
+- A summary was prepared to reflect what was learned.
+- All steps were documented for future use and sharing in a portfolio.
+
+---
+
+
 
 #### 6. Testing and Simulation  
 - Performed reconnaissance on target  
-- Conducted controlled web attacks  
+- Conducted forensic analysis  
 - Captured network traffic for analysis  
 - Documented all procedures and results
 
-### Network Diagram  
-Insert a labeled diagram showing all virtual machines and their IPs
+
 
 ### Screenshots  
 Insert screenshot of virtual machines running  
@@ -101,10 +157,9 @@ virtual-cyber-lab
 ├── tools-reference.md  
 ├── network-diagram.png
 
-## Outcomes  
+## Conlusion
 - Created and configured a secure virtual lab  
 - Demonstrated tool usage and testing methodology    
 - Gained foundational cybersecurity experience
 
-## References  
-Include manuals, documentation, and websites consulted during setup
+
