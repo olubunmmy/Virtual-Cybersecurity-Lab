@@ -27,10 +27,14 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 | Wireshark      | Network packet analyzer                |
 | DVWA / Metasploitable2 | Vulnerable targets for testing |
 
-### Step-by-Step Setup Guide  
+### Lab Setup Methodology
 
-#### 1. Preparation  
-- Verified system virtualization support  
+#### 1.  Pre-Lab Setup
+- Verified system virtualization support  Host System Requirements**:
+  - Minimum 8GB RAM (16GB recommended)
+  - 100GB free disk space
+  - VT-x/AMD-V enabled in BIOS
+  - Verified system virtualization support 
 - Enabled virtualization in UEFI  
 - Installed virtualization software
 
