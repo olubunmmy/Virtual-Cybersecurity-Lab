@@ -100,7 +100,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-### 4️⃣ Using Wireshark for Monitoring
+### 6.Using Wireshark for Monitoring
 
 - **Wireshark** was installed on Ubuntu to watch and record digital activities.
 - Activities between the virtual machines were safely observed and reviewed.
@@ -108,7 +108,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-### 5️⃣ Using Autopsy for Investigation
+### 7. Using Autopsy for Investigation
 
 - **Autopsy**, a tool for digital forensics, was used to open and examine data from one of the virtual computers.
 - Practiced looking at deleted files, browsing activity, and system behavior.
@@ -116,7 +116,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-### 6️⃣ Practicing Scenarios
+### 8. Practicing Scenarios
 
 - Simulated a basic scenario where one virtual computer interacts with another in a suspicious way.
 - Observed the activity with **Wireshark** and documented what was seen.
@@ -124,7 +124,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-### 7️⃣ Documentation and Reporting
+### 9. Documentation and Reporting
 
 - Notes, screenshots, and sample reports were created throughout the setup.
 - A summary was prepared to reflect what was learned.
@@ -134,7 +134,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 
 
-#### 6. Testing and Simulation  
+#### Testing and Simulation  
 - Performed reconnaissance on target  
 - Conducted forensic analysis  
 - Captured network traffic for analysis  
