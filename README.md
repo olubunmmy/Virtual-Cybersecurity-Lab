@@ -34,9 +34,8 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Verified system virtualization support  Host System Requirements**:
   - Minimum 8GB RAM (16GB recommended)
   - 100GB free disk space
-  - VT-x/AMD-V enabled in BIOS
   - Verified system virtualization support 
-- Enabled virtualization in UEFI  
+  -  Enabled virtualization in UEFI  
 
   **Download Tools**:
   - [Oracle VirtualBox](https://www.virtualbox.org/)
