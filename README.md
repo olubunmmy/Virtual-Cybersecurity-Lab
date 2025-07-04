@@ -37,12 +37,23 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
   - VT-x/AMD-V enabled in BIOS
   - Verified system virtualization support 
 - Enabled virtualization in UEFI  
-- Installed virtualization software
 
-#### 2. Creating Virtual Machines  
-- Created VM for penetration testing  
-- Created VM for target system  
-- Configured system resources for each machine
+  **Download Tools**:
+  - [Oracle VirtualBox](https://www.virtualbox.org/)
+  - [Ubuntu ISO](https://ubuntu.com/download/desktop)
+  - [Kali Linux ISO](https://www.kali.org/get-kali/)
+  - [Autopsy](https://www.sleuthkit.org/autopsy/)
+  - [Wireshark](https://www.wireshark.org/)
+  - [Metasploitable2 VM](https://sourceforge.net/projects/metasploitable/)
+
+---
+
+#### 2. Install Oracle VirtualBox and Extension Pack
+ 
+- Install VirtualBox on host system.
+- Install the Extension Pack for USB and RDP support.
+- Launch VirtualBox and confirm it's running.
+
 
 #### 3. Network Configuration  
 - Created internal or host-only network  
