@@ -53,18 +53,31 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Installed the Extension Pack for USB and RDP support.
 - Launched VirtualBox and confirm it's running.
 
+  
+#### 3. Create Virtual Machines
 
-#### 3. Network Configuration  
+#####  Ubuntu (Forensics Host)
+
+- **Settings**:
+  - RAM: 4096MB
+  - Disk: 40GB dynamically allocated
+  - Network: Host-Only Adapter
+
+- **Installation**:
+  - Booted with Ubuntu ISO.
+  - Completed OS setup and installed updates.
+
+#### 4. Network Configuration  
 - Created internal or host-only network  
 - Assigned static IPs to each VM  
 - Verified connectivity using ping
 
-#### 4. Installing Tools  
+#### 5. Installing Tools  
 - Installed port scanning and vulnerability tools  
 - Installed traffic analyzers and interception proxies  
 - Set up web-based vulnerable applications
 
-#### 5. Testing and Simulation  
+#### 6. Testing and Simulation  
 - Performed reconnaissance on target  
 - Conducted controlled web attacks  
 - Captured network traffic for analysis  
