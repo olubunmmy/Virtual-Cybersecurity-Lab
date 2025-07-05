@@ -37,7 +37,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
   - Verified system virtualization support 
   -  Enabled virtualization in UEFI  
 
- - #### 2.  Download Tools
+  #### 2.  Download Tools
   - [Oracle VirtualBox](https://www.virtualbox.org/)
   - [Ubuntu ISO](https://ubuntu.com/download/desktop)
   - [Kali Linux ISO](https://www.kali.org/get-kali/)
@@ -88,20 +88,20 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Assigned static IPs to each VM  
 - Verified connectivity using ping
 
+---
 #### 5. Installing Tools on Ubuntu
 To support hands-on analysis and simulation in the cybersecurity lab, essential tools such as Wireshark and Autopsy were installed on an Ubuntu virtual machine. These tools were selected for their relevance in network traffic analysis and digital forensics, respectively.
 
----
 
-### 6. Testing and Simulation  
+#### 6. Testing and Simulation  
 
-#### Using Wireshark for Monitoring
+##### Using Wireshark for Monitoring
 
 - **Wireshark** was installed on Ubuntu to watch and record digital activities.
 - Activities between the virtual machines were safely observed and reviewed.
 - This helped in understanding how computers communicate and what normal or suspicious activity looks like.
 
-#### Using Autopsy for Investigation
+##### Using Autopsy for Investigation
 
 - **Autopsy**, a tool for digital forensics, was used to open and examine data from one of the virtual computers.
 - Practiced looking at deleted files, browsing activity, and system behavior.
