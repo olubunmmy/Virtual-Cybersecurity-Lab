@@ -37,7 +37,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
   - Verified system virtualization support 
   -  Enabled virtualization in UEFI  
 
- - **Download Tools**:
+ - #### 2.  Download Tools
   - [Oracle VirtualBox](https://www.virtualbox.org/)
   - [Ubuntu ISO](https://ubuntu.com/download/desktop)
   - [Kali Linux ISO](https://www.kali.org/get-kali/)
@@ -47,7 +47,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-#### 2. Installed Oracle VirtualBox and Extension Pack
+#### 3. Installed Oracle VirtualBox and Extension Pack
  
 - Installed VirtualBox on host system.
 - Installed the Extension Pack for USB and RDP support.
@@ -88,12 +88,8 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Assigned static IPs to each VM  
 - Verified connectivity using ping
 
-#### 5. Installing Tools  
- Preparing the Virtual Machines
-
-- Ubuntu was used as the main analysis and investigation computer.
-- Kali Linux served as the computer to explore and simulate risky behavior.
-- Metasploitable2/DVWA acted as the target computer for safe testing scenarios.
+#### 5. Installing Tools on Ubuntu
+To support hands-on analysis and simulation in the cybersecurity lab, essential tools such as Wireshark and Autopsy were installed on an Ubuntu virtual machine. These tools were selected for their relevance in network traffic analysis and digital forensics, respectively.
 
 ---
 
