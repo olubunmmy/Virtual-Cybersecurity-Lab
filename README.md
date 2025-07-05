@@ -83,9 +83,6 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-
-
-
 #### 4. Network Configuration  
 - Created internal or host-only network  
 - Assigned static IPs to each VM  
@@ -100,22 +97,15 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-#### Testing and Simulation  
-- Performed reconnaissance on target  
-- Conducted forensic analysis  
-- Captured network traffic for analysis  
-- Documented all procedures and results
+### 6. Testing and Simulation  
 
-
-### 6.Using Wireshark for Monitoring
+#### Using Wireshark for Monitoring
 
 - **Wireshark** was installed on Ubuntu to watch and record digital activities.
 - Activities between the virtual machines were safely observed and reviewed.
 - This helped in understanding how computers communicate and what normal or suspicious activity looks like.
 
----
-
-### 7. Using Autopsy for Investigation
+#### Using Autopsy for Investigation
 
 - **Autopsy**, a tool for digital forensics, was used to open and examine data from one of the virtual computers.
 - Practiced looking at deleted files, browsing activity, and system behavior.
@@ -123,21 +113,14 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-### 8. Practicing Scenarios
+### 7. Documentation and Reporting
 
-- Simulated a basic scenario where one virtual computer interacts with another in a suspicious way.
-- Observed the activity with **Wireshark** and documented what was seen.
-- Used **Autopsy** to investigate and confirm what had happened by looking into stored data.
+Throughout the setup of the cybersecurity lab, thorough documentation was maintained to ensure clarity, consistency, and future reference. Notes, screenshots, and sample reports were created at each stage of the process, capturing tool installation, configurations, and analysis outcomes.
 
----
+A summary was also prepared to reflect key lessons learned, highlight technical challenges, and outline the skills acquired. All steps were documented in a structured format and organized using **GitHub** as the central platform for version control and presentation.
 
-### 9. Documentation and Reporting
+This documentation supports both personal development and portfolio readiness, demonstrating practical skills and an organized approach to cybersecurity lab work.
 
-- Notes, screenshots, and sample reports were created throughout the setup.
-- A summary was prepared to reflect what was learned.
-- All steps were documented for future use and sharing in a portfolio.
-
----
 
 
 
