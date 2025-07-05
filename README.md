@@ -28,16 +28,18 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 | Wireshark      | Network packet analyzer                |
 | DVWA / Metasploitable2 | Vulnerable targets for testing |
 
-### Lab Setup Methodology
+---
 
-#### 1.  Pre-Lab Setup
+## Lab Setup Methodology
+
+### 1.  Pre-Lab Setup
 - Verified system virtualization support  Host System Requirements**:
   - Minimum 8GB RAM (16GB recommended)
   - 100GB free disk space
   - Verified system virtualization support 
-  -  Enabled virtualization in UEFI  
+  -  Enabled virtualization in BIOS/UEFI  
 
-  #### 2.  Download Tools
+  ### 2.  Download Tools
   - [Oracle VirtualBox](https://www.virtualbox.org/)
   - [Ubuntu ISO](https://ubuntu.com/download/desktop)
   - [Kali Linux ISO](https://www.kali.org/get-kali/)
@@ -47,16 +49,16 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-#### 3. Installed Oracle VirtualBox and Extension Pack
+### 3. Installed Oracle VirtualBox and Extension Pack
  
 - Installed VirtualBox on host system.
 - Installed the Extension Pack for USB and RDP support.
 - Launched VirtualBox and confirm it's running.
 
   
-#### 4. Created Virtual Machines
+### 4. Created Virtual Machines
 
-#####  Ubuntu (Forensics Host)
+####  Ubuntu (Forensics Host)
 
 - **Settings**:
   - RAM: 4096MB
@@ -68,14 +70,14 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
   - Completed OS setup and installed updates.
     
     
-#####  Kali Linux (Attacker Machine)
+####  Kali Linux (Attacker Machine)
 
 - RAM: 4096MB
 - Disk: 30GB
 - Network: Host-Only Adapter
 - Tools: nmap 
 
-#####  Metasploitable2 or DVWA (Target Machine)
+####  Metasploitable2 or DVWA (Target Machine)
 
 - RAM: 2048MB
 - Disk: Pre-configured image
@@ -83,17 +85,17 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 
 ---
 
-#### 4. Network Configuration  
+### 5. Network Configuration  
 - Created internal or host-only network  
 - Assigned static IPs to each VM  
 - Verified connectivity using ping
 
 ---
-#### 5. Installing Tools on Ubuntu
+### 6. Installing Tools on Ubuntu
 To support hands-on analysis and simulation in the cybersecurity lab, essential tools such as Wireshark and Autopsy were installed on an Ubuntu virtual machine. These tools were selected for their relevance in network traffic analysis and digital forensics, respectively.
 
 
-#### 6. Testing and Simulation  
+### 7. Testing and Simulation  
 
 ##### Using Wireshark for Monitoring
 
