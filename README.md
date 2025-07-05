@@ -54,7 +54,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
 - Launched VirtualBox and confirm it's running.
 
   
-#### 3. Created Virtual Machines
+#### 4. Created Virtual Machines
 
 #####  Ubuntu (Forensics Host)
 
@@ -109,38 +109,24 @@ To support hands-on analysis and simulation in the cybersecurity lab, essential 
 
 ---
 
-### 7. Documentation and Reporting
-
-Throughout the setup of the cybersecurity lab, thorough documentation was maintained to ensure clarity, consistency, and future reference. Notes, screenshots, and sample reports were created at each stage of the process, capturing tool installation, configurations, and analysis outcomes.
-
-A summary was also prepared to reflect key lessons learned, highlight technical challenges, and outline the skills acquired. All steps were documented in a structured format and organized using **GitHub** as the central platform for version control and presentation.
-
-This documentation supports both personal development and portfolio readiness, demonstrating practical skills and an organized approach to cybersecurity lab work.
-
-
-
-
 ### Screenshots  
 Insert screenshot of virtual machines running  
 Insert screenshot of successful ping between systems  
 Insert screenshot of scan results  
 Insert screenshot of traffic captured
 
-### Project Folder Structure  
-virtual-cyber-lab  
-├── Screenshots  
-├── Configs  
-├── README.md  
-├── lab-journal.md  
-├── tools-reference.md  
-├── network-diagram.png
+##  Documentation and Reporting
 
-## Conlusion
-Here’s a **comprehensive conclusion** you can use for your project on **setting up a functional cybersecurity lab**. This is appropriate for including in your README, final report, or GitHub documentation:
+Throughout the setup of the cybersecurity lab, thorough documentation was maintained to ensure clarity, consistency, and future reference. Notes, screenshots, and sample reports were created at each stage of the process, capturing tool installation, configurations, and analysis outcomes.
 
----
+A summary was also prepared to reflect key lessons learned, highlight technical challenges, and outline the skills acquired. All steps were documented in a structured format and organized using **GitHub** as the central platform for version control and presentation.
 
-## 🔚 **Conclusion**
+This documentation supports both personal development and portfolio readiness, demonstrating practical skills and an organized approach to cybersecurity lab 
+
+
+
+
+##  **Conclusion**
 
 Setting up a functional cybersecurity lab provided a solid foundation for exploring key cybersecurity concepts, tools, and practices in a controlled, practical environment. This project successfully established a fully operational virtual lab using open-source and freely available tools such as **Ubuntu Virtual Machine, Wireshark, and Autopsy**, enabling hands-on experience with various aspects of threat detection, digital forensics, and network monitoring.
 
