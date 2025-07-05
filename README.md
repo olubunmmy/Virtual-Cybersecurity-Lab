@@ -39,7 +39,7 @@ This setup is designed for learning, practicing, and demonstrating cybersecurity
   - Verified system virtualization support 
   -  Enabled virtualization in BIOS/UEFI  
 
-  ### 2.  Download Tools
+### 2. Download Tools
   - [Oracle VirtualBox](https://www.virtualbox.org/)
   - [Ubuntu ISO](https://ubuntu.com/download/desktop)
   - [Kali Linux ISO](https://www.kali.org/get-kali/)
