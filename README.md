@@ -112,25 +112,11 @@ To support hands-on analysis and simulation in the cybersecurity lab, essential 
 ---
 
 ### Screenshots  
-###  Virtual Machines Running
-![VMs Running](images/vm-running.png)
 
-### 📡 Ping Test Between Machines
-![Ping Test](images/ping-success.png)
-
-### 🔍 Nmap Scan Result
-![Nmap Scan](images/nmap-scan.png)
-
-### 📊 Wireshark Packet Capture
-![Wireshark Traffic](images/wireshark-capture.png)
-
-### 🧩 Autopsy Forensic Analysis
-![Autopsy Analysis](images/autopsy-case.png)
-
-Insert screenshot of virtual machines running  
-Insert screenshot of successful ping between systems  
-Insert screenshot of scan results  
-Insert screenshot of traffic captured
+ screenshot of virtual machines running  
+ screenshot of successful ping between systems  
+ screenshot of scan results  
+ screenshot of traffic captured
 
 ##  Documentation and Reporting
 
